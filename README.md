@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh903/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,13 +37,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabh903/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabh903/LeetCode/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabh903/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
