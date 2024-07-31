@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh903/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/saurabh903/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/saurabh903/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/saurabh903/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/saurabh903/LeetCode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabh903/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabh903/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/saurabh903/LeetCode/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabh903/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
