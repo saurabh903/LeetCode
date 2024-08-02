@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saurabh903/LeetCode/tree/master/0189-rotate-array) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saurabh903/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/saurabh903/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/saurabh903/LeetCode/tree/master/2727-number-of-senior-citizens) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saurabh903/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
