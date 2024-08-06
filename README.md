@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saurabh903/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saurabh903/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabh903/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saurabh903/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saurabh903/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabh903/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saurabh903/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabh903/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saurabh903/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/saurabh903/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabh903/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabh903/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabh903/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabh903/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
