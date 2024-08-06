@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saurabh903/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/saurabh903/LeetCode/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabh903/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabh903/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saurabh903/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/saurabh903/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabh903/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saurabh903/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabh903/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
