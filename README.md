@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabh903/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh903/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh903/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/saurabh903/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/saurabh903/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh903/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/saurabh903/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saurabh903/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/saurabh903/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/saurabh903/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh903/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
