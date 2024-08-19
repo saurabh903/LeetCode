@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabh903/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/saurabh903/LeetCode/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/saurabh903/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/saurabh903/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabh903/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saurabh903/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saurabh903/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saurabh903/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/saurabh903/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/saurabh903/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/saurabh903/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/saurabh903/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabh903/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabh903/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabh903/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/saurabh903/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/saurabh903/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Binary Search
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/saurabh903/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saurabh903/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
